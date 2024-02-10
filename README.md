@@ -1,4 +1,4 @@
-## Tic Tac Toe Oyunu Özeti
+## Tic Tac Toe Oyunu
 
 **Geliştirme Dili:** Python
 
